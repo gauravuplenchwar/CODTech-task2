@@ -31,3 +31,5 @@ Challenges:
 Data Requirements: Requires large, high-quality datasets for training.
 Computational Resources: Training deep learning models can be computationally expensive.
 Interpretability: Understanding the decision-making process of deep learning models can be challenging.
+
+![Screenshot (3)](https://github.com/user-attachments/assets/3eef459b-998c-4a99-8fee-759b37acbd0c)
